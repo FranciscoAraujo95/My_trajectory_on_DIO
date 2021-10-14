@@ -1,0 +1,2 @@
+Aqui dei meus primeiros passos na linguagem JavaScript, voltada para aplicações na Web.
+

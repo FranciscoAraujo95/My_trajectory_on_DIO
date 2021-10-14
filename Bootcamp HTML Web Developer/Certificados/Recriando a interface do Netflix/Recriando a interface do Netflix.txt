@@ -1,0 +1,2 @@
+Neste módulo recriei a interfaco inicial do Netflix de acordo com os ensinamentos do curso da DIO, mais uma vez pude adquirir novos conhecimentos e praticar o que já sabia.
+

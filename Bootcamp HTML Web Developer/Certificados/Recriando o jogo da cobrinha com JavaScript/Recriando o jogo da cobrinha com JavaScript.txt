@@ -1,0 +1,2 @@
+Meu primeiro contato com o desenvolvimento de um jogo utilizando JavaScript. Achei muito interessante, pretendo estudar mais essa área referente à jogos. :rocket:
+

@@ -1,0 +1,2 @@
+Aqui tive meu primeiro contato com as tecnologias Git e Github, aprendi o básico para navegação em um terminal, comandos do GIT e como subir projetos para a nuvem através do Github.
+
